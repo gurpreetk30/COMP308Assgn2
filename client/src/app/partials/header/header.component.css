@@ -1,0 +1,12 @@
+.navbar {
+  min-height: 30px;
+  background-color: rgb(99, 109, 99);
+}
+
+.navbar-brand {
+
+  font-size: 30px;
+  color: rgb(38, 233, 119);
+  font-weight: 600;
+  font-style: bold;
+}
